@@ -2,7 +2,7 @@
 
 This repository contains some examples of my previous work:
 
-1. **statsproject_RSA_ROI_Group1.m** is a decoding analysis on pre-processed fMRI data using representational similarity analysis (RSA). I worked on this alone for a statistics course.
+1. **statsproject_RSA_ROI_Group1.m** is a decoding analysis on pre-processed fMRI data using representational similarity analysis (RSA). I worked on this on my own for a statistics course.
 2. **VIGISTOM.m** is one of the scripts I am developing for a project at the German Institute of Human Nutrition, where I am currently working as a student assistant. This script implements an N-back task with question prompts presented at randomised time points.
 2. **Go_no_go_task.m** is a simple behavioural experiment which I contributed in along with three other classmates. This was part of our coursework for our programming course.
 3. **DeepMLP: From Pupil Activity to Neural Spiking PCs.ipynb** is a project in which I contributed during my participation in the Neuromatch Academy on Deep Learning. In this script, I coded from the section labeled 'Define MLPs' onwards to the end of the script, with the assistance of our teaching assistant. The Principal Component Analysis (PCA) was performed by one of my groupmates.
